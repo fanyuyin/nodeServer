@@ -1,0 +1,12 @@
+{
+  "compilerOptions":{
+    "target":"es5",
+    "module":"commonjs",
+    "emitDecoratorMetadata":true,
+    "outDir":"build",
+    "lib":["es6"]
+  },
+  "exclude":[
+    "node_modules"
+  ]
+}
